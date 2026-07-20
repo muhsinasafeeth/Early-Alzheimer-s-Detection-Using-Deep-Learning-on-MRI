@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 keras
-tensorflow
+tensorflow-cpu==2.20.0
 opencv-python
 Pillow
 scikit-learn
