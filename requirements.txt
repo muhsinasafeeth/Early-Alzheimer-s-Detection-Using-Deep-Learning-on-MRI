@@ -1,7 +1,6 @@
 streamlit
 numpy
 pandas
-tensorflow
 keras
 opencv-python
 Pillow
