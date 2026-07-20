@@ -1,44 +1,26 @@
-# --- Python ---
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
-*.egg-info/
-.eggs/
-build/
-dist/
 
-# --- Virtual environments ---
+# Virtual environments
 venv/
 .venv/
 env/
-ENV/
 
-# --- Jupyter ---
-.ipynb_checkpoints/
-
-# --- Streamlit ---
-.streamlit/secrets.toml
-
-# --- TensorFlow / model artifacts (keep the final model, ignore checkpoints) ---
-*.h5.tmp
-checkpoints/
-logs/
-*.ckpt
-*.tfevents.*
-
-# --- Data ---
-*.zip
-*.csv
-data/
-combined_images/
-kaggle.json
-
-# --- OS / editor cruft ---
-.DS_Store
-Thumbs.db
+# IDE files
 .vscode/
 .idea/
 
-# --- Misc ---
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
 *.log
-.env
