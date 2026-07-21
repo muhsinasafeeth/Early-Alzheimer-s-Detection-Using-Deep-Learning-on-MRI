@@ -1,8 +1,8 @@
-streamlit
-numpy
+streamlit==1.46.0
+numpy==1.26.4
 pandas
 keras
-tensorflow-cpu==2.20.0
+tensorflow==2.16.1
 opencv-python
 Pillow
 scikit-learn
