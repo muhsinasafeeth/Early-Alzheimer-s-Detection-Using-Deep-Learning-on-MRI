@@ -1,5 +1,5 @@
 # 🧠 Early-Stage Alzheimer's Detection
-
+Live : https://alzheimer-s-prediction-using-cnn-vuxuaaesyae32njnhvthrq.streamlit.app/
 A Streamlit web app that classifies brain MRI scans as **Non-Demented** or
 **Very Mild Demented** (early-stage Alzheimer's) using a custom-trained CNN,
 with **Grad-CAM** visualizations to explain each prediction.
